@@ -9,12 +9,12 @@
 
 # 🤚 자기소개
 <p align="justify">
-저는 고객 경험(CX) 배경을 가진 주니어 데이터 분석가로, 데이터를 통해 고객 경험 개선에 중점을 두고 있습니다. 스타트업에서 경력을 시작하며 단순 운영을 넘어 **비즈니스 성과에 직접 영향을 미치는 데이터 기반 워크플로우**를 설계했습니다. 주요 성과로는 워크플로우 재설계를 통한 환불율 50% 감소 (5.5% → 2.7%), 신규 서비스에 대한 완벽한 GA4 + GTM 추적 인프라 구축 (79개 이벤트, 21개 트리거), Google Apps Script를 활용한 반복적인 CX 프로세스 자동화로 처리 시간을 5분에서 16초로 단축 등이 있습니다.
+저는 고객 경험(CX) 배경을 가진 주니어 데이터 분석가로, 데이터를 통해 고객 경험 개선을 한 경험이 있습니다. 외국어 에듀테크 스타트업에서 경력을 시작하며 단순 운영을 넘어 비즈니스 성과에 직접 영향을 미치는 데이터 기반 워크플로우 를 설계했습니다. 주요 성과로는 워크플로우 재설계를 통한 환불율 50% 감소 (5.5% → 2.7%), 신규 서비스에 대한 GA4 + GTM 사용자 행동 데이터 추적 인프라 구축 (79개 이벤트, 21개 트리거), Google Apps Script를 활용한 반복적인 CX 프로세스 자동화로 처리 시간을 5분에서 16초로 단축 등이 있습니다.
 </p>
 <p align="justify">
-저는 **SQL, Python, Tableau, Power BI, GA4, Excel**을 활용하여 부트캠프 프로젝트와 실무 환경 모두에서 탐색적 데이터 분석(EDA), 퍼널 분석, RFM 세그멘테이션을 수행한 경험이 있습니다. 저는 MECE(Mutually Exclusive, Collectively Exhaustive)와 가설 검증과 같은 구조적인 문제 해결 방식을 민첩한 협업과 결합하여 접근합니다.
+저는 SQL, Bigquery, Python, Tableau, Power BI, GA4, Excel을 활용하여 부트캠프 프로젝트와 실무 환경 모두에서 탐색적 데이터 분석(EDA), 퍼널 분석, RFM 세그멘테이션을 수행한 경험이 있습니다. 저는 MECE(Mutually Exclusive, Collectively Exhaustive)와 가설 검증과 같은 구조적인 문제 해결 방식을 민첩한 협업과 결합하여 접근합니다.
 </p>
-앞으로도 저는 CX와 데이터 분석이라는 하이브리드 전문성을 활용하여 고객 참여와 조직 성장을 이끄는 실행 가능한 인사이트를 제공하는 것을 목표로 합니다. 제 GitHub 프로필은 저의 기술 역량과 분석 능력을 보여주는 다양한 MySQL, Python, Tableau, Power BI 데이터 분석 프로젝트들을 선보일 것입니다.
+앞으로도 저는 CX 경험을 바탕으로 고객 참여와 조직 성장을 이끄는 실행 가능한 인사이트를 제공하는 데이터 분석가가 되는 것을 목표로하고 있습니다.
 </p>
 
 <br/><br/>
@@ -45,7 +45,7 @@
 </details>
 <br/>
 
-## 🛒온라인 소매 거래 분석 - [My SQL, Tableau] - 2025
+## 🛒이커머스 거래 분석 - [My SQL, Tableau] - 2025
 - 📂 **저장소 (Repository):** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/blob/main/Online%20Retail%20Transaction%20Analysis/README.md)
 - 📊 **설명:**
   <p align="justify">
