@@ -26,7 +26,7 @@
 - [연락처](#연락처)
 <br/><br/>
 
-# ⚡포트폴리오 프로젝트
+# ⚡포트폴리오
 ## 🛍️ 쇼핑 트렌드 분석 - [My SQL, Tableau] - 2025
 - 📂 **저장소 (Repository):** [SQL Project](https://github.com/JunghyeonAhn/SQL-Project-/tree/main/Shopping%20trend%20analysis)
   
