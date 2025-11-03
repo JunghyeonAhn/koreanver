@@ -92,8 +92,36 @@
 
 <br/><br/>
 
-# ⚡스터디 프로젝트
+# ⚡일 경험 
+## 데이터 트래킹 인프라 구축 - [GA4, GTM, Looker Studio] - 2024.03 ~ 04
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/MKT-C-GA4-GTM-256313eca7d9806d88d5eb8768b1e25f)
+  
+- 📊 **세부 내용:**
+- GA4와 GTM을 사용하여 79개의 이벤트와 21개의 트리거를 설계 및 배포했으며, 외부 유입(광고, SNS, 유튜브)부터 내부 행동(회원가입, 결제, 학습 시작)까지 전체 고객 여정을 커버했습니다.
+- 경영진, 프로덕션팀과 마케팅팀을 위한 실시간 대시보드(Looker Studio)를 구축하여 제공했습니다.
+  <p align="justify">
 
+<br/>
+
+## 환불 워크플로우 최적화 - 2024.05 ~ 08
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-259313eca7d9802cad84f8e7e5b9ac31)
+  
+- 📊 **세부 내용:**
+- 고객의 모든 채널을 통합하여 환불 사유 수집 및 분류를 위한 체계적인 시스템을 설계하고 구현했습니다.
+- 서비스 A의 환불률을 5.5%에서 2.7%로 감소(50% 감소)시켰고, 서비스 B의 환불률을 3–4% 수준으로 안정화했습니다.
+- 고객 경험(CX) 효율을 개선하고, 환불 사례를 재구매 기회로 전환했습니다.
+
+  <p align="justify">
+
+## CX 자동화 (Google Apps Script) - 2024.05 ~ 08
+<br/>📂 **Notion portfolio:** [Project](https://mousy-gong-df4.notion.site/CX-80-Google-App-Script-252313eca7d980ef9e7deea1ca425870)
+  
+- 📊 **세부 내용:**
+- 반복 업무(인증서, 영수증 발급, CRM 데이터 전처리)를 자동화하여 처리 시간을 5분에서 16초로 단축하고 오류를 0%로 만들었습니다.
+- 90%의 비업무 시간(off-hour) 업무를 제거하여 팀의 효율성을 극대화했습니다.
+  <p align="justify">
+
+<br/>
 
 <br/><br/>
 
